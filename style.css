@@ -186,7 +186,7 @@ main::after {
         /* Alinha o conteúdo ao final do elemento */
         left: 0;
         /* Alinha o conteúdo ao lado esquerdo */
-        top: -20%;
+        top: -30%;
         /* Desloca o conteúdo para cima */
         max-width: 100vw;
         /* Largura máxima ajustada */
@@ -215,6 +215,7 @@ main::after {
         /* Largura ajustada para preencher a tela */
         padding: 30px;
         /* Adiciona espaçamento interno */
+        top: -5%;
     }
 
     .botoes .botao img {
@@ -251,7 +252,7 @@ main::after {
 
     .botoes {
         padding: 20px;
-        top: -1%;
+        top: -5%;
     }
 }
 
